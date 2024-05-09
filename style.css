@@ -100,8 +100,10 @@ body{
     color: #495057;
     font-size: 12px;
 }
-.rodape{
-    margin-left: 200px;
+.rodape__dev{
+    margin-left: 500px;
+    margin-top: 100px;
     color: #495057;
+    font-size: 15px;
 
 }
